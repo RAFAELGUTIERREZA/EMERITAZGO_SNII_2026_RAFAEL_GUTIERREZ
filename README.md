@@ -1,1 +1,1 @@
-Estos archivos contienen la documentación probatoria que no pudo subirse a RIZOMA por falta de espacio. Contiene, además, información adicional que pudiera no estar en listada en Rizoma. Para explicación, leer por favor el archivo "LEER PRIMERO..."
+Estos archivos contienen la documentación probatoria que no pudo subirse a RIZOMA por falta de espacio. Contiene, además, información adicional que pudiera no estar enlistada en Rizoma. Para explicación, leer por favor el archivo "LEER PRIMERO..."
